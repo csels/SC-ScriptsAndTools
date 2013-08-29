@@ -1,6 +1,0 @@
-Unique RTSP Teardown occurrences
-Reason: 200 User Pressed Stop,34
-Reason: 427 Stream Control Timeout,5
-Reason: 400 Fail to Tune,18
-Reason: 201 End of Stream,3
-Total RTSP Teardown Occurrences,60
